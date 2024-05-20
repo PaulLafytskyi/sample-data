@@ -2,7 +2,7 @@
     "orders": [
         {
             "deliveryType": "delivery",
-            "id": "686YS2F-63FA-49CC-B4B5-252DE4CF229B",
+            "id": "686BS2F-63FA-49CC-B4B5-252DE4CF229B",
             "storeID": 1010,
             "items": [
               {
@@ -18,7 +18,7 @@
           },
           {
             "deliveryType": "delivery",
-            "id": "F42C3CD7-1743-43GD-90C0-F7A9N291F68W",
+            "id": "F42C3CD7-1743-43BD-90C0-F7A9B291F68W",
             "storeID": 1111,
             "items": [
               {
@@ -94,7 +94,7 @@
           },
           {
             "deliveryType": "pickup",
-            "id": "4DDB57E9-C7Y4-4BEB-BF72-84AE9EB58A5B",
+            "id": "4DDB57E9-C7B4-4BEB-BF72-84AE9EB58A5B",
             "storeID": 5213,
             "items": [
               {
